@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Pagina-1" id="TZh7pZrTqcm5k_2RkWBP">
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-1" value="Utente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-3" value="Auto" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-4" value="Parcheggio" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="850" y="50" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-5" value="Proprietario" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="585" y="50" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="635" y="150" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="900" y="150" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-9" value="Inserimento dati" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1.4;exitY=0.105;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nAMwlLXj0m_Fw8UtEgTO-2" target="nAMwlLXj0m_Fw8UtEgTO-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-10" value="Inserimento dati" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="nAMwlLXj0m_Fw8UtEgTO-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="190" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-12" value="Inserimento dati" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nAMwlLXj0m_Fw8UtEgTO-2" target="nAMwlLXj0m_Fw8UtEgTO-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-13" value="Aggiunta proprietario all&#39;auto" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nAMwlLXj0m_Fw8UtEgTO-7" target="nAMwlLXj0m_Fw8UtEgTO-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="460" y="240" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-14" value="Aggiunta auto al parcheggio" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="nAMwlLXj0m_Fw8UtEgTO-8" target="nAMwlLXj0m_Fw8UtEgTO-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAMwlLXj0m_Fw8UtEgTO-15" value="Conferma dell&#39;aggiunta" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nAMwlLXj0m_Fw8UtEgTO-8" target="nAMwlLXj0m_Fw8UtEgTO-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
